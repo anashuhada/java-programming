@@ -1,0 +1,1 @@
+I am learning Java programming as part of my preparation to begin studying Selenium.
